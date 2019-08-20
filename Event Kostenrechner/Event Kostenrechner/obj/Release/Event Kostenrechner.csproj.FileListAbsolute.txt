@@ -1,0 +1,8 @@
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Release\Event_Kostenrechner.Form1.resources
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Release\Event_Kostenrechner.Properties.Resources.resources
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Release\Event Kostenrechner.csproj.GenerateResource.Cache
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\bin\Release\Event Kostenrechner.exe
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\bin\Release\Event Kostenrechner.pdb
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Release\Event Kostenrechner.exe
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Release\Event Kostenrechner.pdb

@@ -1,0 +1,16 @@
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\obj\Debug\Event_Kostenrechner.Form1.resources
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\obj\Debug\Event_Kostenrechner.Properties.Resources.resources
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\obj\Debug\Event Kostenrechner.csproj.GenerateResource.Cache
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\bin\Debug\Event Kostenrechner.exe
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\bin\Debug\Event Kostenrechner.pdb
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\obj\Debug\Event Kostenrechner.exe
+C:\Users\StefanBlümel\AppData\Local\Temporary Projects\Event Kostenrechner\obj\Debug\Event Kostenrechner.pdb
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Debug\Event Kostenrechner.exe
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Debug\Event Kostenrechner.pdb
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\bin\Debug\Event Kostenrechner.exe
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\bin\Debug\Event Kostenrechner.pdb
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Debug\Event_Kostenrechner.Form1.resources
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Debug\Event_Kostenrechner.Properties.Resources.resources
+C:\Users\StefanBlümel\Documents\Visual Studio 2008\Projects\Event Kostenrechner\Event Kostenrechner\obj\Debug\Event Kostenrechner.csproj.GenerateResource.Cache
